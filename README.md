@@ -7,5 +7,5 @@
 1、springboot入门  详见springbootdemo1模块，内含demo代码和md文档  
 2、springboot中控制器的使用  详见springbootdemo2模块，内含demo代码和md文档  
 3、springboot获取URL的请求参数 详见springbootdemo3模块，内含demo代码和md文档  
-4、springboot模板引擎使用之Thymeleaf 详见springbootdemo3模块，内含demo代码和md文档  
+4、springboot模板引擎使用之Thymeleaf 详见springbootdemo4模块，内含demo代码和md文档  
 
